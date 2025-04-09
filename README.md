@@ -1,7 +1,7 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+
 
 MultiPDF Chat App
 
@@ -76,9 +76,4 @@ This project primarily serves educational purposes, accompanying a detailed YouT
 Licensing
 
 MultiPDF Chat App is provided under the MIT License, ensuring flexibility and freedom for personal and commercial usage.
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
 
