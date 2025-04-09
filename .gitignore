@@ -1,0 +1,44 @@
+# Sensitive environment variables
+.env
+*.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.virtualenv/
+
+# Streamlit cache and config
+.streamlit/
+.cache/
+
+# MacOS-specific files
+.DS_Store
+
+# IDE or editor specific files/directories
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# PDF Uploads or user-specific data
+uploads/
+pdfs/
+documents/
+
+# Vectorstore embeddings or generated indexes (if saved locally)
+faiss_index/
+*.faiss
+
+# LangChain logs or other local data
+langchain.log
